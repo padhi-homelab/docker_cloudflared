@@ -11,7 +11,7 @@ A multiarch [cloudflared] Docker image, based on [Alpine Linux].
 - `arm` (`linux/arm/v6`)
 - `armhf` (`linux/arm/v7`)
 - `aarch64` (`linux/arm64`)
-- `ppc64le` (`linux/ppc64le`)
+- ~~`ppc64le` (`linux/ppc64le`)~~
 
 ### Credits
 
